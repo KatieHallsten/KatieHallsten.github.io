@@ -1,0 +1,18 @@
+---
+title: "Katie Hallsten"
+image: "katie.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/catherinehallsten/"
+  - label: Twitter
+    url: "https://twitter.com/KatieHallsten"
+  - label: GitHub
+    url: "https://github.com/KatieHallsten"
+  - label: Email
+    url: "mailto:katie@katiehallsten.com"
+output:
+  postcards::jolla
+---
+ 
+I am a primate cognition researcher, great ape conservation advocate, and 
+virtual assistant splitting my time between Scotland and Southern California.
