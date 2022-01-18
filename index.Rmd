@@ -1,6 +1,7 @@
 ---
 title: "Katie Hallsten"
 image: "katie.jpeg"
+css: "stylesheet.css"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/catherinehallsten/"
@@ -11,8 +12,17 @@ links:
   - label: Email
     url: "mailto:katie@katiehallsten.com"
 output:
-  postcards::jolla
+  postcards::solana
 ---
- 
-I am a primate cognition researcher, great ape conservation advocate, and 
-virtual assistant splitting my time between Scotland and Southern California.
+
+<div class="mt-4">
+
+🦧 Hello! I am an orangutan conservationist and former primate cognition researcher who is now focused on supply chain sustainability and consulting. 
+
+My MSc project explores how a language-trained ape recognizes virtual objects representationally within virtual reality. 
+
+I hold a master’s degree in Psychology from the University of St. Andrews and a bachelor’s degree in Cognitive and Behavioral Neuroscience from the University of California, San Diego. 
+
+My main hobbies include singing and baking, and I am always trying out new makeup techniques. Feel free to reach out!
+
+</div>
